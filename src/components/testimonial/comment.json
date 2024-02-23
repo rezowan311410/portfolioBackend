@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_testimonial_comments",
+  "info": {
+    "displayName": "comment",
+    "icon": "bulletList"
+  },
+  "options": {},
+  "attributes": {
+    "img": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "name": {
+      "type": "string"
+    },
+    "designation": {
+      "type": "string"
+    },
+    "details": {
+      "type": "string"
+    }
+  }
+}

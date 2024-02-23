@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_contact_part_messages",
+  "info": {
+    "displayName": "message"
+  },
+  "options": {},
+  "attributes": {
+    "placeholder": {
+      "type": "string"
+    },
+    "input_type": {
+      "type": "string"
+    },
+    "width": {
+      "type": "string"
+    }
+  }
+}

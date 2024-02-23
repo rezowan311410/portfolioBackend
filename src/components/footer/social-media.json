@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_footer_social_medias",
+  "info": {
+    "displayName": "social media",
+    "icon": "apps"
+  },
+  "options": {},
+  "attributes": {
+    "social_media": {
+      "type": "string"
+    }
+  }
+}

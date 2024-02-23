@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_menu_item_layouts",
+  "info": {
+    "displayName": "Layout",
+    "icon": "train",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Item": {
+      "type": "string",
+      "required": true,
+      "unique": false
+    },
+    "Link": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_contact_part_communications",
+  "info": {
+    "displayName": "communication"
+  },
+  "options": {},
+  "attributes": {
+    "icon": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "adname": {
+      "type": "string"
+    },
+    "address": {
+      "type": "string"
+    }
+  }
+}

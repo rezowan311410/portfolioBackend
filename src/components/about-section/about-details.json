@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_about_section_about_details",
+  "info": {
+    "displayName": "About_details",
+    "icon": "apps"
+  },
+  "options": {},
+  "attributes": {
+    "Left_side": {
+      "type": "string"
+    },
+    "Right_Side": {
+      "type": "string"
+    }
+  }
+}

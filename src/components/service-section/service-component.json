@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_service_section_service_components",
+  "info": {
+    "displayName": "Service_component",
+    "icon": "chartBubble",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Service_Icon": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "Sub_tittle": {
+      "type": "string"
+    },
+    "details": {
+      "type": "string"
+    }
+  }
+}

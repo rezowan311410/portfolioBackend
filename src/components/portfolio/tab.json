@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_portfolio_tabs",
+  "info": {
+    "displayName": "tab",
+    "icon": "bulletList",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "itemname": {
+      "type": "string"
+    },
+    "tab_img": {
+      "type": "component",
+      "repeatable": true,
+      "component": "tabbar.tab-img"
+    },
+    "buttn_text": {
+      "type": "string"
+    },
+    "button_link": {
+      "type": "string",
+      "default": "#"
+    }
+  }
+}

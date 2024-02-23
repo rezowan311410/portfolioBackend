@@ -1,0 +1,35 @@
+{
+  "kind": "collectionType",
+  "collectionName": "about_sections",
+  "info": {
+    "singularName": "about-section",
+    "pluralName": "about-sections",
+    "displayName": "About_Section",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "tittle": {
+      "type": "string"
+    },
+    "sub_tittle": {
+      "type": "string"
+    },
+    "details": {
+      "type": "text"
+    },
+    "button": {
+      "type": "component",
+      "repeatable": true,
+      "component": "about-button.about-section"
+    },
+    "About_Details": {
+      "type": "component",
+      "repeatable": true,
+      "component": "about-section.about-details"
+    }
+  }
+}

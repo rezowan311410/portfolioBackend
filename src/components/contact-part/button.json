@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_contact_part_buttons",
+  "info": {
+    "displayName": "button",
+    "icon": "chartBubble",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "button_text": {
+      "type": "string"
+    }
+  }
+}
